@@ -6,7 +6,7 @@
 
 ### hey, I'm Jay 👋
 
-Been building stuff since 7th grade — started coding and freelancing way before I actually knew what I was doing. Always wanted engineering, ended up on the premed track instead, didn't score enough on boards to make it work, took a drop — and then the entrance paper got leaked for good measure. So now I'm circling back to where I originally wanted to be. Life's just a series of pivots at this point.
+Been building stuff since 7th grade, started coding and freelancing way before I actually knew what I was doing. Always wanted engineering, ended up on the premed track instead, didn't score enough on boards to make it work, took a drop, and then the entrance paper got leaked for good measure. So now I'm circling back to where I originally wanted to be. Life's just a series of pivots at this point.
 
 <br/>
 
@@ -18,7 +18,7 @@ Been building stuff since 7th grade — started coding and freelancing way befor
 
 </div>
 
-Mostly full-stack MERN — frontend and backend both, depending on what's broken that day.
+Mostly full-stack MERN, jumping between frontend and backend depending on what's broken that day.
 
 <br/>
 
@@ -30,10 +30,10 @@ Mostly full-stack MERN — frontend and backend both, depending on what's broken
 
 </div>
 
-- 🎨 **Three.js / GSAP / Web Audio API** — small interactive web builds, browser games with synthesized sound instead of audio files
-- 🧊 **Blender** — clay-style 3D stuff, not gonna pretend I'm good at it yet
+- 🎨 **Three.js / GSAP / Web Audio API**: small interactive web builds, browser games with synthesized sound instead of audio files
+- 🧊 **Blender**: clay-style 3D stuff, not gonna pretend I'm good at it yet
 - 🔌 **Arduino / electronics**
-- 🕹️ **Retro gaming + reviving old gadgets** — PS Vita homebrew, jailbroke an iPad Mini 2 to run as a second monitor because throwing it away felt criminal
+- 🕹️ **Retro gaming + reviving old gadgets**: PS Vita homebrew, jailbroke an iPad Mini 2 to run as a second monitor because throwing it away felt criminal
 
 <br/>
 
@@ -41,7 +41,7 @@ Mostly full-stack MERN — frontend and backend both, depending on what's broken
 <summary>🎨 off-screen (click to expand)</summary>
 <br/>
 
-Also draw, mess with cinematography, and play guitar/flute pretty decently — plus a couple more instruments I'm still bad at.
+Also draw, mess with cinematography, and play guitar/flute pretty decently, plus a couple more instruments I'm still bad at.
 
 </details>
 
@@ -49,9 +49,9 @@ Also draw, mess with cinematography, and play guitar/flute pretty decently — p
 
 ### 🐛 recently
 
-Found and diagnosed a [`ReferenceError` bug](https://github.com/caret-collective/watch-history-exporter-for-amazon-prime-video/issues/48) in an open-source script — confirmed and merged within a couple hours.
+Found and diagnosed a [`ReferenceError` bug](https://github.com/caret-collective/watch-history-exporter-for-amazon-prime-video/issues/48) in an open-source script, confirmed and merged within a couple hours.
 
-Freelance work, internship stuff, side projects — none of it's ever been one continuous streak, more on-and-off depending on what else is going on. Most of it's stayed private for a long time, but slowly bringing more of it out here.
+Freelance work, internship stuff, side projects. None of it's ever been one continuous streak, more on and off depending on what else is going on. Most of it's stayed private too.
 
 <br/>
 
