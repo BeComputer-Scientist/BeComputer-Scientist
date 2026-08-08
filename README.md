@@ -6,7 +6,7 @@
 
 ### hey, I'm Jay 👋
 
-Been building stuff since 7th grade, started coding and freelancing way before I actually knew what I was doing. Always wanted engineering, ended up on the premed track instead, didn't score enough on boards to make it work, took a drop, and then the entrance paper got leaked for good measure. So now I'm circling back to where I originally wanted to be. Life's just a series of pivots at this point.
+Been building stuff since 7th grade, started coding and freelancing way before I actually knew what I was doing. Always wanted engineering, ended up on the premed track instead, didn't score enough on my first attempt, took a drop, and then the entrance paper got leaked for good measure. So now I'm circling back to where I originally wanted to be. Life's just a series of pivots at this point.
 
 <br/>
 
@@ -38,10 +38,10 @@ Mostly full-stack MERN, jumping between frontend and backend depending on what's
 <br/>
 
 <details>
-<summary>🎨 off-screen (click to expand)</summary>
+<summary>🎬 plot twist: I have a life outside VS Code</summary>
 <br/>
 
-Also draw, mess with cinematography, and play guitar/flute pretty decently, plus a couple more instruments I'm still bad at.
+Draw sometimes, mess with cinematography, and play guitar and flute badly enough to be dangerous, plus a couple more instruments I'm still working my way through.
 
 </details>
 
