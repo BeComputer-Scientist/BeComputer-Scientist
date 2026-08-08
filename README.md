@@ -10,7 +10,9 @@ Been building stuff since 7th grade, started coding and freelancing way before I
 
 <br/>
 
-### 🛠 stack
+### ⚔️ main loadout
+
+<br/>
 
 <div align="center">
 
@@ -18,11 +20,17 @@ Been building stuff since 7th grade, started coding and freelancing way before I
 
 </div>
 
-Mostly full-stack MERN, jumping between frontend and backend depending on what's broken that day.
+<br/>
+
+**MERN stack**
+
+React in the streets, Node.js in the server logs, MongoDB holding everything together through sheer optimism. I speak fluent MERN and conversational error messages.
 
 <br/>
 
-### 🎮 messing around with
+### 🎮 side quests I probably shouldn't have started
+
+<br/>
 
 <div align="center">
 
@@ -30,10 +38,12 @@ Mostly full-stack MERN, jumping between frontend and backend depending on what's
 
 </div>
 
-- 🎨 **Three.js / GSAP / Web Audio API**: small interactive web builds, browser games with synthesized sound instead of audio files
-- 🧊 **Blender**: clay-style 3D stuff, not gonna pretend I'm good at it yet
-- 🔌 **Arduino / electronics**
-- 🕹️ **Retro gaming + reviving old gadgets**: PS Vita homebrew, jailbroke an iPad Mini 2 to run as a second monitor because throwing it away felt criminal
+<br/>
+
+- 🎨 **Browser sorcery**: Three.js, GSAP, and browser games that synthesize their own sounds because importing an MP3 was apparently too easy
+- 🧊 **Donut engineering**: making clay-style things in Blender and hoping the lighting hides my crimes
+- 🔌 **Tiny boards, large consequences**: Arduino, electronics, and at least one board lost in the pursuit of knowledge
+- 🕹️ **Hardware necromancy**: PS Vita homebrew and an iPad Mini 2 jailbroken into becoming a second monitor because planned obsolescence felt like a personal challenge
 
 <br/>
 
@@ -51,7 +61,7 @@ Draw sometimes, mess with cinematography, and play guitar and flute badly enough
 
 Found and diagnosed a [`ReferenceError` bug](https://github.com/caret-collective/watch-history-exporter-for-amazon-prime-video/issues/48) in an open-source script, confirmed and merged within a couple hours.
 
-Freelance work, internship stuff, side projects. None of it's ever been one continuous streak, more on and off depending on what else is going on. Most of it's stayed private too.
+I take on freelance work, internship stuff, and side projects whenever life permits. Some of it is public; the rest is trapped behind NDAs, abandoned hard drives, or my complete failure to document things. I'm slowly fixing the last two, the GitHub graph is not the complete lore.
 
 <br/>
 
