@@ -6,7 +6,7 @@
 
 ### hey, I'm Jay 👋
 
-Been at this since 7th grade — freelancing on the side while grinding through NEET/JEE prep on a gap year. Originally wanted engineering, pivoted to premed, then the entrance paper got leaked and blew that plan up too — so now I'm circling back to engineering. Life's just a series of pivots at this point.
+Been building stuff since 7th grade — started coding and freelancing way before I actually knew what I was doing. Always wanted engineering, ended up on the premed track instead, didn't score enough on boards to make it work, took a drop — and then the entrance paper got leaked for good measure. So now I'm circling back to where I originally wanted to be. Life's just a series of pivots at this point.
 
 <br/>
 
@@ -51,7 +51,7 @@ Also draw, mess with cinematography, and play guitar/flute pretty decently — p
 
 Found and diagnosed a [`ReferenceError` bug](https://github.com/caret-collective/watch-history-exporter-for-amazon-prime-video/issues/48) in an open-source script — confirmed and merged within a couple hours.
 
-most of what I actually build stays private for a long time — freelance work, internship stuff, side projects — but slowly bringing more of it out here.
+Freelance work, internship stuff, side projects — none of it's ever been one continuous streak, more on-and-off depending on what else is going on. Most of it's stayed private for a long time, but slowly bringing more of it out here.
 
 <br/>
 
@@ -61,6 +61,52 @@ most of what I actually build stays private for a long time — freelance work, 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BeComputer-Scientist&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 </div>
+
+<br/>
+
+### 📉 status report
+
+- Arduino boards harmed: **1**
+- Blender competence: **donut-adjacent**
+- NEET sanity: **reconnecting...**
+
+<br/>
+
+<details>
+<summary>🍄 do not click this</summary>
+<br/>
+
+You clicked it. Incredible decision-making.
+
+Here's the cursed Blender donut. More subdivision surface modifiers went into this than actual talent.
+
+<pre>
+      ___
+   .-'   `-.
+  /  .-"-.  \
+ |  /     \  |
+ |  \     /  |
+  \  `-.-'  /
+   `-.___.-'
+</pre>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+You have reached the bottom of the README.
+
+There is no final boss yet.
+
+The repository owner is still procrastinating on it.
+
+ETA: post-NEET 2027, allegedly.
+
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=BeComputer-Scientist&color=blueviolet&style=flat" alt="profile views" />
